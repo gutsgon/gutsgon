@@ -72,5 +72,9 @@ Olá, me chamo Gustavo Vínicius, tenho 19 anos e sou natural de Sergipe, Aracaj
   />
 </p>
 
-![Snake animation](https://github.com/gutsgon/gutsgon/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gutsgon/gutsgon/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gutsgon/gutsgon/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/gutsgon/gutsgon/output/github-contribution-grid-snake.svg">
+</picture>
 
