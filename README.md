@@ -22,10 +22,6 @@ Olá, me chamo Gustavo Vínicius, tenho 19 anos e sou natural de Sergipe, Aracaj
     </a>
 </p>
 
-
-
-
-
 ---
 
 ### 🤖 Linguagens e Tecnologias
