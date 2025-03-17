@@ -86,6 +86,7 @@ Olá, me chamo Gustavo Vínicius, tenho 19 anos e sou natural de Sergipe, Aracaj
     alt="Microsoft Sql Server" 
     title="MSSQL"
     width="30px" 
+    style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" 
 />        
 <img 
