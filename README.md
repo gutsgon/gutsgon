@@ -4,14 +4,14 @@
 
 Olá, me chamo Gustavo Vínicius, tenho 19 anos e sou natural de Sergipe, Aracaju. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no IFS.
 
-<p align="left">
+<p align="left" style="display: flex; align-items: center; gap: 15px;">
     <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
             src="https://custom-icon-badges.demolab.com/github/stars/gutsgon?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=ESTRELAS"
         />
-    </a>&nbsp;&nbsp;&nbsp;&nbsp;
+    </a>
     <a href="https://github.com/gutsgon?tab=followers">
         <img 
             alt="Seguidores" 
@@ -20,6 +20,7 @@ Olá, me chamo Gustavo Vínicius, tenho 19 anos e sou natural de Sergipe, Aracaj
         />
     </a>
 </p>
+
 
 
 
