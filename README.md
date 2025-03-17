@@ -20,6 +20,16 @@ Olá, me chamo Gustavo Vínicius, tenho 19 anos e sou natural de Sergipe, Aracaj
             src="https://custom-icon-badges.demolab.com/github/followers/gutsgon?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=SEGUIDORES&logoColor=white"
         />
     </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="mailto:gustavogoncalves.contato1@gmail.com">
+        <img 
+            alt="Mail" 
+            title="Gmail" 
+            src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+        />
+    </a>
+
+    
 </p>
 
 ---
