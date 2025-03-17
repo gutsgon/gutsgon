@@ -72,3 +72,5 @@ Olá, me chamo Gustavo Vínicius, tenho 19 anos e sou natural de Sergipe, Aracaj
   />
 </p>
 
+![Snake animation](https://github.com/gutsgon/gutsgon/blob/output/github-contribution-grid-snake.svg)
+
