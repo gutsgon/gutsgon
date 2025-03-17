@@ -57,7 +57,7 @@ Olá, me chamo Gustavo Vínicius, tenho 19 anos e sou natural de Sergipe, Aracaj
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
+      height="100" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=gutsgon&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
