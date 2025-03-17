@@ -12,7 +12,7 @@ Olá, me chamo Gustavo Vínicius, tenho 19 anos e sou natural de Sergipe, Aracaj
             src="https://custom-icon-badges.demolab.com/github/stars/gutsgon?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=ESTRELAS"
         />
     </a>
-    <span style="margin-right: 20px;"></span>
+    <span style="margin-right: 100px;"></span>
     <a href="https://github.com/gutsgon?tab=followers">
         <img 
             alt="Seguidores" 
