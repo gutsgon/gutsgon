@@ -4,19 +4,20 @@
 
 Olá, me chamo Gustavo Vínicius, tenho 19 anos e sou natural de Sergipe, Aracaju. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no IFS.
 
-<div align="left" style="display: flex; gap: 10px;">
+<div align="left">
     <a href="https://github.com/gutsgon?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/gutsgon?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/gutsgon?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=ESTRELAS"
         />
     </a>
+    <span style="margin-right: 10px;"></span>
     <a href="https://github.com/gutsgon?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/gutsgon?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/gutsgon?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=SEGUIDORES&logoColor=white"
         />
     </a>
 </div>
