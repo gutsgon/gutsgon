@@ -40,7 +40,7 @@ title = Direct contact src="https://img.shields.io/badge/Discord-7289DA?style=fo
 
 ### 📊 Estatísticas
 
-<div align="center">
+<div align="left">
   <img 
     alt="GitHub Stats" 
     height="175" 
