@@ -9,7 +9,7 @@ Hello👋, my name is Gustavo Vínicius (call me "Gus"), I am 19 years old, and 
 title="Stars Github" src="https://custom-icon-badges.demolab.com/github/stars/gutsgon?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=ESTRELAS" target="_blank"></a>
   <a href="https://github.com/gutsgon?tab=followers" target="_blank"><img title="Follow me"
 src="https://custom-icon-badges.demolab.com/github/followers/gutsgon?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=FOLLOWERS&logoColor=white" target="_blank"></a>
- 	 <a href="https://discord.gg/dqeV7swq8g" target="_blank"><img
+ 	 <a href="https://discord.gg/WeYnrmYPQK" target="_blank"><img
 title = Direct contact src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:gustavogoncalves.contato1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gustavo-gv" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
