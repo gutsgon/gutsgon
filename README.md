@@ -34,6 +34,8 @@ title = Direct contact src="https://img.shields.io/badge/Discord-7289DA?style=fo
     <img align="center"height="30"width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" width="40px" title="jQuery"/>
     <img align="center"height="30"width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40px" title="Git"/>
     <img align="center"height="30"width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40px" title="Docker"/>
+  <img align="center"height="30"width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="40px" title="C#"/>
+  <img align="center"height="30"width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg" width="40px" title="Dotnet"/>
 </div>
 
 
