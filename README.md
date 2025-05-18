@@ -1,6 +1,6 @@
 # [Gustavo Vinícius]()
 
-**`Desenvolvedor FullStack`**
+**`Back-End Developer`**
 
 Hello👋, my name is Gustavo Vínicius (call me "Gus"), I am 19 years old, and I am from Aracaju, Sergipe. Currently, I am studying Systems Analysis and Development at [Instituto Federal de Sergipe](https://www.ifs.edu.br).
 
@@ -18,7 +18,7 @@ title = Direct contact src="https://img.shields.io/badge/Discord-7289DA?style=fo
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Programming languages e echnologies
 
 <div style="display: inline_block"><br>
     <img align="center"height="30"width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40px" title="HTML"/>
@@ -41,7 +41,7 @@ title = Direct contact src="https://img.shields.io/badge/Discord-7289DA?style=fo
 
 ---
 
-### 📊 Estatísticas
+### 📊 Statistics
 
 <div style="display: flex; flex-wrap: nowrap; align-items: center; gap: 30px;">
   <img 
