@@ -18,7 +18,7 @@ title = Direct contact src="https://img.shields.io/badge/Discord-7289DA?style=fo
 
 ---
 
-### 🤖 Programming languages e echnologies
+### 🤖 Programming languages and Technologies
 
 <div style="display: inline_block"><br>
     <img align="center"height="30"width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40px" title="HTML"/>
