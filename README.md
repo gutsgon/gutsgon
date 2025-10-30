@@ -36,6 +36,8 @@ title = Direct contact src="https://img.shields.io/badge/Discord-7289DA?style=fo
     <img align="center"height="30"width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40px" title="Docker"/>
   <img align="center"height="30"width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="40px" title="C#"/>
   <img align="center"height="30"width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg" width="40px" title="Dotnet"/>
+  <img align="center"height="30"width="40"src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.74.0/files/dark/n8n-color.png" width="40px" title="n8n"/>
+  <img align="center"height="30"width="40"src="https://repository-images.githubusercontent.com/162494199/a1d3ba61-e0f0-4916-a376-53002605da83" width="40px" title="BullMQ"/>
 </div>
 
 
