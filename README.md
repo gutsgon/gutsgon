@@ -1,6 +1,6 @@
 # [Gustavo Vinícius]()
 
-**`Back-End Developer`**
+**`FullStack Developer`**
 
 Hello👋, my name is Gustavo Vínicius (call me "Gus"), I am 19 years old, and I am from Aracaju, Sergipe. Currently, I am studying Systems Analysis and Development at [Instituto Federal de Sergipe](https://www.ifs.edu.br).
 
