@@ -2,7 +2,7 @@
 
 **`FullStack Developer`**
 
-Hello👋, my name is Gustavo Vínicius (call me "Gus"), I am 19 years old, and I am from Aracaju, Sergipe. Currently, I am studying Systems Analysis and Development at [Instituto Federal de Sergipe](https://www.ifs.edu.br).
+Hello👋, my name is Gustavo Vínicius (call me "Gus"), I am 21 years old, with 3 years of Software Development experience, and I am from Aracaju, Sergipe. Currently, I'm graduated Systems Analysis and Development at [Instituto Federal de Sergipe](https://www.ifs.edu.br).
 
 <div> 
   <a href="https://github.com/gutsgon?tab=repositories&sort=stargazers" target="_blank"><img 
